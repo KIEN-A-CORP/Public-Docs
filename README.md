@@ -1,6 +1,5 @@
 # Public-Docs
 
-Check list các công việc cần hoàn thành
 
 Bước 1: Kích Hoạt tài khoản email 
 Xem hướng dẫn: [KAG-ITUG-016](https://kienacorp.sharepoint.com/:w:/s/H-IT/Ed-IFI1iRkFHl_tdSEYv1JgBzpQrMpmCw_torUg80CzTeA?e=WqOcCe) 
@@ -32,3 +31,5 @@ https://kienacorp.sharepoint.com/
 ## Hỗ Trợ 
 
 Nếu có thắc mắc trong quá trình sử dụng vui lòng liên hệ với IT qua email it@kiena.vn hoặc [it.services@kiena.vn](mailto:it.services@kiena.vn) để được hỗ trợ thêm!
+
+
