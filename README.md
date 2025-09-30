@@ -1,6 +1,8 @@
 # Public-Docs
-Publics Documents
-Bước 1: Kích Hoạt tài khoản email
+
+Check list các công việc cần hoàn thành
+
+[] Bước 1: Kích Hoạt tài khoản email
 Xem hướng dẫn: KAG-ITUG-016-HUONG DAN SU DUNG EMAIL VÀ OFFICE365.docx
 
 BƯỚC 2: Kích hoạt TÀI KHOẢN guest 
